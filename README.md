@@ -1,5 +1,6 @@
 # Femdom```markdown
 # Hello, World!
+[![CI](https://github.com/Femdom821/Femdom/actions/workflows/blank.yml/badge.svg)](https://github.com/Femdom821/Femdom/actions/workflows/blank.yml)
 
 Welcome to my repository. 😏
 
